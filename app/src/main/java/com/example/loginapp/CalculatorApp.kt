@@ -80,10 +80,11 @@ fun Greeting2( modifier: Modifier = Modifier) {
                 .padding(20.dp).background(color = Color.Transparent),
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center
+
         ) {
 
             Text(
-                text = "Calculator App",
+                text = "Calculator App 2",
                 color = Color.Gray,
                 fontSize = 32.sp,
                 modifier = Modifier.padding(12.dp)
