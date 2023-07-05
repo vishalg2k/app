@@ -84,7 +84,7 @@ fun Greeting2( modifier: Modifier = Modifier) {
         ) {
 
             Text(
-                text = "Calculator App 2",
+                text = "Calculator App 1",
                 color = Color.Gray,
                 fontSize = 32.sp,
                 modifier = Modifier.padding(12.dp)
